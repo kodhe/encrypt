@@ -27,7 +27,7 @@ Atau tambahkan ke `composer.json`:
 ```json
 {
     "require": {
-        "kodhe/encrypt": "^2.0"
+        "kodhe/encrypt": "^1.0"
     }
 }
 ```
